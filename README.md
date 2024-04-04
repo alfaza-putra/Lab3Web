@@ -55,7 +55,7 @@ CREATE TABLE data_barang(
 INSERT INTO `data_barang` (`id_barang`, `nama`, `kategori`, `gambar`, `harga_beli`, `harga_jual`, `stok`) VALUES (NULL, 'HP Samsung Android', 'Elektronik', 'gambar/HP samsung.jpg', '30000000', '30500000', '1'), (NULL, 'HP Xiaomi', 'Elektronik', 'gambar/HP xiaomi.jpg', '6070000', '6080000', '2');
 ```
 
-![databarang](https://github.com/alfaza-putra/Lab3Web/assets/129705943/d61066cf-b5d2-46dc-9ad6-5d14f9d16386)
+![databarang](https://github.com/alfaza-putra/Lab3Web/assets/129705943/144b3517-66c5-497f-b59e-7b3588a7a7d2)
 
 
 ## Membuat Program CRUD
@@ -487,7 +487,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 - Maka hasilnya akan seperti berikut.
 
-![ubahbarang](https://github.com/alfaza-putra/Lab3Web/assets/129705943/0fe5b2ce-34fb-4b22-b4ad-e243e8135ba4)
+![ubahbarang](https://github.com/alfaza-putra/Lab3Web/assets/129705943/4d320c3f-19cb-4f9a-804e-0d00c428ceb2)
+
 
 
 
