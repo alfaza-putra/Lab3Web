@@ -308,7 +308,8 @@ $result = mysqli_query($conn, $query);
 
 - Maka hasilnya akan seperti berikut.
 
-![create](https://github.com/alfaza-putra/Lab3Web/assets/129705943/9701e077-1f9d-41b8-a0ce-a9ad2bcaf891)
+![create](https://github.com/alfaza-putra/Lab3Web/assets/129705943/6d61ca49-9ab8-4f1b-991e-8535b1d832f3)
+
 
 
 - Kemudian, tambahkan file baru dengan nama `proses.php` yang mana fungsi ini akan digunakan untuk memproses semuanya.
