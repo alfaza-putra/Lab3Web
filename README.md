@@ -308,8 +308,7 @@ $result = mysqli_query($conn, $query);
 
 - Maka hasilnya akan seperti berikut.
 
-![create](https://github.com/alfaza-putra/Lab3Web/assets/129705943/6d61ca49-9ab8-4f1b-991e-8535b1d832f3)
-
+![create](https://github.com/alfaza-putra/Lab3Web/assets/129705943/1716d5cc-8760-449c-806c-eaf0326d1f71)
 
 
 - Kemudian, tambahkan file baru dengan nama `proses.php` yang mana fungsi ini akan digunakan untuk memproses semuanya.
@@ -488,7 +487,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 - Maka hasilnya akan seperti berikut.
 
-![ubahbarang](https://github.com/alfaza-putra/Lab3Web/assets/129705943/70cc0609-3233-4672-8bb0-2905ee657083)
+![ubahbarang](https://github.com/alfaza-putra/Lab3Web/assets/129705943/0fe5b2ce-34fb-4b22-b4ad-e243e8135ba4)
+
 
 
 ## Menghapus Data (Delete)
